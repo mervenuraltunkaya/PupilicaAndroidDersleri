@@ -1,4 +1,4 @@
-# Week 4 - UI Geliştirme: Tema ve Dil Desteği
+# Ödev 3
 
 ## 📚 Konu
 Dersimizde işlenen aşağıdaki konuları kapsayan bir Android uygulaması tasarlandı:
