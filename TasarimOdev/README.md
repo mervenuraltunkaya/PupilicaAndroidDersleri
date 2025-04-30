@@ -18,12 +18,12 @@ Dersimizde işlenen aşağıdaki konuları kapsayan bir Android uygulaması tasa
 
 ## 📸 Ekran Görüntüsü
 
-![Açık_Mod_TR]("C:\KotlinBootcamp\AndroidOdevler\TasarimOdev\screenshots\light-tr.png")
-![Açık_Mod_Eng]("C:\KotlinBootcamp\AndroidOdevler\TasarimOdev\screenshots\light-eng.png")
-![Koyu_Mod_TR]("C:\KotlinBootcamp\AndroidOdevler\TasarimOdev\screenshots\dark-tr.png")
-![Koyu_Mod_Eng]("C:\KotlinBootcamp\AndroidOdevler\TasarimOdev\screenshots\dark-eng.png")
-![XLarge-ligth]("C:\KotlinBootcamp\AndroidOdevler\TasarimOdev\screenshots\xlarge-light.png")
-![XLarge-dark]("C:\KotlinBootcamp\AndroidOdevler\TasarimOdev\screenshots\xlarge-dark.png")
+![Açık_Mod_TR](screenshots/light-tr.png)
+![Açık_Mod_Eng](screenshots/light-eng.png)
+![Koyu_Mod_TR](screenshots/dark-tr.png)
+![Koyu_Mod_Eng](screenshots/dark-eng.png)
+![XLarge-ligth](screenshots/xlarge-light.png)
+![XLarge-dark](screenshots/xlarge-dark.png)
 
 
 
