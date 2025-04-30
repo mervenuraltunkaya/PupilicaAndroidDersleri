@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TasarimOdev</string>
+    <string name="urunbaslik">Desk</string>
+    <string name="renk1">White</string>
+    <string name="renk2">Black</string>
+    <string name="renk3">Turqoise</string>
+    <string name="renk4">Brown</string>
+    <string name="aciklamaBaslik">Description</string>
+    <string name="aciklamaYazi">With its simple and smart design, it creates a nice and beautiful appearance by making tangled cables invisible. You can place it in the middle of the room because the back is polished; it will look beautiful from every angle.</string>
+    <string name="galeri">Gallery</string>
+    <string name="buton">Add To Cart</string>
+</resources>

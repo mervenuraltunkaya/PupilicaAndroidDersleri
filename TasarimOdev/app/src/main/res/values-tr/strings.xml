@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TasarimOdev</string>
+    <string name="urunbaslik">Çalışma Masası</string>
+    <string name="renk1">Beyaz</string>
+    <string name="renk2">Siyah</string>
+    <string name="renk3">Turkuaz</string>
+    <string name="renk4">Kahverengi</string>
+    <string name="aciklamaBaslik">Açıklama</string>
+    <string name="aciklamaYazi">Sade ve akıllı tasarımıyla karışık kabloları görünmez hale getirerek, hoş ve güzel bir görünüm oluşturur. Arka kısmın cilalı olması nedeniyle odanın ortasına yerleştirebilirsiniz; her yönden güzel görünecektir.</string>
+    <string name="galeri">Galeri</string>
+    <string name="buton">Sepete Ekle</string>
+</resources>
