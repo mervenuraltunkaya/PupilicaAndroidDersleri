@@ -9,7 +9,7 @@ Dersimizde işlenen aşağıdaki konuları kapsayan bir Android uygulaması tasa
 - 📱 Çoklu Ekran (Responsive) Desteği
 - 🌙 Dark Mode (Karanlık Tema) Desteği
 
-## 🧠 Öğrenilenler
+## Öğrenilenler
 - `colors.xml` ve `themes.xml` dosyalarında özel tema oluşturma
 - `res/font` klasörü altında özel yazı tipi kullanma
 - `strings.xml` dosyalarını `values-tr`, `values-en` gibi klasörlerle çoğaltarak çoklu dil desteği sağlama
