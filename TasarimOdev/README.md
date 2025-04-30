@@ -16,14 +16,14 @@ Dersimizde işlenen aşağıdaki konuları kapsayan bir Android uygulaması tasa
 - `layout` yapısıyla farklı ekranlara uygun tasarım
 - `night` klasörü kullanarak karanlık mod desteği oluşturma
 
-## 📸 Ekran Görüntüsü
+## 📸 Ekran Görüntüleri
 
-![Açık_Mod_TR](screenshots/light-tr.png)
-![Açık_Mod_Eng](screenshots/light-eng.png)
-![Koyu_Mod_TR](screenshots/dark-tr.png)
-![Koyu_Mod_Eng](screenshots/dark-eng.png)
-![XLarge-ligth](screenshots/xlarge-light.png)
-![XLarge-dark](screenshots/xlarge-dark.png)
+![Açık_Mod_TR](screenshots/light-tr.png)  
+![Açık_Mod_Eng](screenshots/light-eng.png)  
+![Koyu_Mod_TR](screenshots/dark-tr.png)  
+![Koyu_Mod_Eng](screenshots/dark-eng.png)  
+![XLarge-ligth](screenshots/xlarge-light.png)  
+![XLarge-dark](screenshots/xlarge-dark.png)  
 
 
 
