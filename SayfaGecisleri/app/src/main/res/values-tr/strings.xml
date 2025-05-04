@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SayfaGecisleri</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="grup_giris">Grup Planı Oluştur</string>
+    <string name="bireysel_giris">Bireysel Plan Oluştur</string>
+    <string name="grup_giris_text">Grup etkinliğinizin detaylarını belirleyiniz.</string>
+    <string name="bireysel_giris_text">Bireysel etkinliğinizin detaylarını belirleyiniz.</string>
+    <string name="etkinlik_turu_text">Etkinlik Türü</string>
+    <string name="seçiniz">Seçiniz</string>
+    <string name="tarih_saat_text">Tarih ve Saat</string>
+    <string name="tarih_text">Tarih</string>
+    <string name="saat_text">Saat</string>
+    <string name="tarih_sec_button">Tarih Seç</string>
+    <string name="saat_sec_button">Saat Seç</string>
+    <string name="ilerle_button">İlerle</string>
+    <string name="kisi_sayisi_sec_text">Kişi sayısı seçiniz.</string>
+    <string name="daha_fazla_kisi">5 veya daha fazlası</string>
+    <string name="basarili_mesaj">Etkinlik Bilgileri Başarıyla Kaydedildi!</string>
+    <string name="geri_donus">Anasayfaya dönmek için geri tuşuna basınız.</string>
+    <string name="etkinlik_meditasyon">Meditasyon</string>
+    <string name="etkinlik_yoga">Yoga</string>
+    <string name="etkinlik_doga_yuruyusu">Doğa Yürüyüşü</string>
+    <string name="etkinlik_sinema">Sinema</string>
+    <string name="etkinlik_tiyatro">Tiyatro</string>
+    <string name="etkinlik_konser">Konser</string>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_activity_nav"
+    app:startDestination="@id/anaSayfaFragment">
+
+    <fragment
+        android:id="@+id/anaSayfaFragment"
+        android:name="com.merve.sayfagecisleri.AnaSayfaFragment"
+        android:label="fragment_ana_sayfa"
+        tools:layout="@layout/fragment_ana_sayfa" >
+        <action
+            android:id="@+id/grupDetayGecis"
+            app:destination="@id/grupEtkinlikDetayFragment" />
+        <action
+            android:id="@+id/bireyselDetayGecis"
+            app:destination="@id/bireyselEtkinlikDetayFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/grupEtkinlikDetayFragment"
+        android:name="com.merve.sayfagecisleri.GrupEtkinlikDetayFragment"
+        android:label="fragment_grup_etkinlik_detay"
+        tools:layout="@layout/fragment_grup_etkinlik_detay" >
+        <action
+            android:id="@+id/kisiSecGecis"
+            app:destination="@id/kisiSecFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/kisiSecFragment"
+        android:name="com.merve.sayfagecisleri.KisiSecFragment"
+        android:label="fragment_kisi_sec"
+        tools:layout="@layout/fragment_kisi_sec" >
+        <action
+            android:id="@+id/grupSonucGecis"
+            app:destination="@id/sonucFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bireyselEtkinlikDetayFragment"
+        android:name="com.merve.sayfagecisleri.BireyselEtkinlikDetayFragment"
+        android:label="fragment_bireysel_etkinlik_detay"
+        tools:layout="@layout/fragment_bireysel_etkinlik_detay" >
+        <action
+            android:id="@+id/bireyselSonucGecis"
+            app:destination="@id/sonucFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sonucFragment"
+        android:name="com.merve.sayfagecisleri.SonucFragment"
+        android:label="fragment_sonuc"
+        tools:layout="@layout/fragment_sonuc" >
+        <action
+            android:id="@+id/anasayfaDonus"
+            app:destination="@id/anaSayfaFragment" />
+    </fragment>
+</navigation>

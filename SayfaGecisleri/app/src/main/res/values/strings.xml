@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PageTransitions</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="grup_giris">Create Group Plan</string>
+    <string name="bireysel_giris">Create Individual Plan</string>
+    <string name="grup_giris_text">Specify the details of your group activity.</string>
+    <string name="bireysel_giris_text">Specify the details of your individual activity.</string>
+    <string name="etkinlik_turu_text">Type of Activity</string>
+    <string name="seçiniz">Select</string>
+    <string name="tarih_saat_text">Date and Time</string>
+    <string name="tarih_text">Date</string>
+    <string name="saat_text">Time</string>
+    <string name="tarih_sec_button">Select Date</string>
+    <string name="saat_sec_button">Select Time</string>
+    <string name="ilerle_button">Continue</string>
+    <string name="kisi_sayisi_sec_text">Select the number of participants.</string>
+    <string name="daha_fazla_kisi">5 or more</string>
+    <string name="basarili_mesaj">Activity Information Saved Successfully!</string>
+    <string name="geri_donus">Press the back button to return to the homepage.</string>
+    <string name="etkinlik_meditasyon">Meditation</string>
+    <string name="etkinlik_yoga">Yoga</string>
+    <string name="etkinlik_doga_yuruyusu">Nature Walk</string>
+    <string name="etkinlik_sinema">Cinema</string>
+    <string name="etkinlik_tiyatro">Theatre</string>
+    <string name="etkinlik_konser">Concert</string>
+</resources>
